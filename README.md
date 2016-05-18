@@ -1,29 +1,27 @@
-## Introduction
+#JavaScript Dark Nebula Challenge
 
-Dark Nebula is a continuation of Nebula, with more challenges to complete.
+This is a suite of logic problems I did to expand my knowledge of JavaScript syntax.
 
-## Setup
+All credit goes to Rebecca Murphey, who authored this exercise to test potential job applicants on their JavaScript ability.
 
+This suite covers the following areas of JS knowledge:
+* Arrays
+* Best Practices
+* Functions
+* Objects
+* Recursion
+* Regex
+* Strings
+
+**See files in the `app` folder for my solutions**
+
+##Dependencies
+* Node
+	* `brew install node`
+
+##Setup Instructions
 ```
-brew install node
-```
-
-Once you've installed Node, run the following from your command line:
-
-```
-et get dark-nebula
-cd dark-nebula
 npm install
 npm start
 ```
 
-Then, visit [http://localhost:4444](http://localhost:4444) in your browser:
-
-![alt](https://s3.amazonaws.com/horizon-production/images/uzpfVGV.png)
-
-## Core Challenge Requirements
-
-* Implement the functions in `arrays.js`, `bestPractices.js`, `functions.js`, `regex.js`, and `strings.js`.
-
-## Optional Challenge Requirements
-* Implement the functions in `objects.js` and `recursion.js`.
